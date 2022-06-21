@@ -1,0 +1,15 @@
+C:\Users\anace\Desktop\IntroducaoCSharp\MeuPrimeiroPrograma\bin\Debug\net6.0\MeuPrimeiroPrograma.exe
+C:\Users\anace\Desktop\IntroducaoCSharp\MeuPrimeiroPrograma\bin\Debug\net6.0\MeuPrimeiroPrograma.deps.json
+C:\Users\anace\Desktop\IntroducaoCSharp\MeuPrimeiroPrograma\bin\Debug\net6.0\MeuPrimeiroPrograma.runtimeconfig.json
+C:\Users\anace\Desktop\IntroducaoCSharp\MeuPrimeiroPrograma\bin\Debug\net6.0\MeuPrimeiroPrograma.dll
+C:\Users\anace\Desktop\IntroducaoCSharp\MeuPrimeiroPrograma\bin\Debug\net6.0\MeuPrimeiroPrograma.pdb
+C:\Users\anace\Desktop\IntroducaoCSharp\MeuPrimeiroPrograma\obj\Debug\net6.0\MeuPrimeiroPrograma.csproj.AssemblyReference.cache
+C:\Users\anace\Desktop\IntroducaoCSharp\MeuPrimeiroPrograma\obj\Debug\net6.0\MeuPrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anace\Desktop\IntroducaoCSharp\MeuPrimeiroPrograma\obj\Debug\net6.0\MeuPrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\anace\Desktop\IntroducaoCSharp\MeuPrimeiroPrograma\obj\Debug\net6.0\MeuPrimeiroPrograma.AssemblyInfo.cs
+C:\Users\anace\Desktop\IntroducaoCSharp\MeuPrimeiroPrograma\obj\Debug\net6.0\MeuPrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\anace\Desktop\IntroducaoCSharp\MeuPrimeiroPrograma\obj\Debug\net6.0\MeuPrimeiroPrograma.dll
+C:\Users\anace\Desktop\IntroducaoCSharp\MeuPrimeiroPrograma\obj\Debug\net6.0\refint\MeuPrimeiroPrograma.dll
+C:\Users\anace\Desktop\IntroducaoCSharp\MeuPrimeiroPrograma\obj\Debug\net6.0\MeuPrimeiroPrograma.pdb
+C:\Users\anace\Desktop\IntroducaoCSharp\MeuPrimeiroPrograma\obj\Debug\net6.0\MeuPrimeiroPrograma.genruntimeconfig.cache
+C:\Users\anace\Desktop\IntroducaoCSharp\MeuPrimeiroPrograma\obj\Debug\net6.0\ref\MeuPrimeiroPrograma.dll
