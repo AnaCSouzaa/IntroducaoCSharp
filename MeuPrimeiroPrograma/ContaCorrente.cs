@@ -6,12 +6,13 @@ public class ContaCorrente // acessada de qualquer lugar do código
     public double Saldo;
 
     public ContaCorrente (string Titular, int Agencia, int Numero, double Saldo) 
+    //segue o nome da classe 
     //construtor: possui as informações necessárias para a criação de um objeto dentro de uma classe. 
-    //Nesse caso, precisa haver, necessariamente, o titular, agência, número e saldo para criação da conta corrente. 
+    //Nesse caso, precisa haver, necessariamente, o titular, a agência,o  número e o saldo para criação da conta corrente. 
     {
-        this.Titular = Titular; //o segundo Titular é considerado variável
+        this.Titular = Titular; //o segundo Titular é considerado variável 
         this.Agencia = Agencia;
-        this.Numero = Numero;
+        this.Numero = Numero; // this = representa o objeto que está sendo manipulado
         this.Saldo = Saldo;
     }
 
