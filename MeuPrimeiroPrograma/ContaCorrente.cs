@@ -18,9 +18,9 @@ public class ContaCorrente // acessada de qualquer lugar do código
 
     public bool Sacar(double valorSaque) // entre o tipo do método,'public', e o método, 'Sacar', há a informação do tipo de retorno.
     {
-        if (Saldo >= valorSaque)
+        if (this.Saldo >= valorSaque)
         {
-            Saldo = Saldo - valorSaque;
+            this.Saldo = Saldo - valorSaque;
             return true;
         }
         return false;
